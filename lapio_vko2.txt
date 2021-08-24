@@ -1,3 +1,2 @@
 tekstiä
-github teksti
-paikallisesti lisätty teksti
+github teksti muutettuna
