@@ -1,6 +1,3 @@
 tekstiä
-<<<<<<< Updated upstream
 github teksti
-=======
 paikallisesti lisätty teksti
->>>>>>> Stashed changes
